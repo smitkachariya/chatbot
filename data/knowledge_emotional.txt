@@ -1,0 +1,188 @@
+# GREETINGS & BASIC
+hello | Hi there! How are you feeling today? 😊
+hi | Hello! Great to see you! How can I brighten your day?
+hey | Hey! What's on your mind?
+good morning | Good morning! Hope you have an amazing day ahead! ☀️
+good afternoon | Good afternoon! How's your day going so far?
+good evening | Good evening! How can I make your evening better?
+how are you | I'm doing great! More importantly, how are YOU doing?
+what's up | Not much! Just here to chat and help. What's going on with you?
+
+# GRATITUDE
+thank you | You're so welcome! Always here for you! 😊
+thanks | My pleasure! Anything else I can help with?
+appreciate it | Happy to help! That's what I'm here for!
+
+# FAREWELLS
+bye | Take care! Remember, you're awesome! Come back anytime! 👋
+goodbye | Goodbye! Hope I made your day a little brighter! 😊
+see you later | See you! Stay positive! ✨
+
+# MOOD DETECTION - SADNESS
+i'm sad | I'm sorry you're feeling down. Remember, tough times don't last, but tough people do. Want to talk about it or hear something uplifting? 💙
+feeling sad | It's okay to feel sad sometimes. You're stronger than you think. Would you like a motivational quote or a joke to cheer you up?
+i'm depressed | I hear you, and your feelings are valid. Please consider talking to someone you trust or a professional. You're not alone in this. 💙
+i feel down | Everyone has down days. Remember, storms don't last forever. How can I help lift your spirits?
+i'm upset | I understand you're upset. Take a deep breath. Whatever it is, you'll get through it. Want to talk about it?
+feeling blue | We all feel blue sometimes. Here's something to remember: Every sunset is followed by a sunrise. Things will get better! 🌅
+i'm crying | It's okay to cry - it shows you care deeply. Let it out. Remember, tears water the seeds of healing. 💙
+heartbroken | Heartbreak is incredibly painful. Give yourself time to heal. You deserve love and happiness, and they will come again. 💔➡️💚
+lonely | Feeling lonely is tough, but remember: you're never truly alone. I'm here, and there are people who care about you. Reach out to someone! 🤗
+nobody cares | That's not true! I care, and I'm sure others do too. You matter more than you know. Your presence makes a difference. 💙
+
+# MOOD DETECTION - STRESS & ANXIETY
+i'm stressed | Stress is tough! Take a deep breath. Remember: You don't have to control everything. Focus on what you can change. Need some relaxation tips? 😌
+feeling anxious | Anxiety is challenging. Try this: Breathe in for 4, hold for 4, out for 4. You're stronger than your worries. What's bothering you?
+overwhelmed | Feeling overwhelmed is a sign you care. Break things down into smaller steps. You don't have to do everything at once. 🌟
+too much pressure | Pressure can feel crushing. Remember: diamonds are made under pressure, but you can also choose to step back and breathe. What's one small thing you can do now?
+can't handle this | You're handling more than you think! Sometimes we need to ask for help, and that's totally okay. What support do you need?
+panic attack | I'm here with you. Focus on your breathing: slow, deep breaths. You're safe. This feeling will pass. If this continues, please reach out to someone nearby or a professional. 💙
+worried | Worrying shows you care, but don't let it consume you. Most of what we worry about never happens. What's one thing going right today?
+
+# MOOD DETECTION - ANGER & FRUSTRATION
+i'm angry | It's okay to feel angry. Take a moment to breathe. What's making you angry? Sometimes talking helps.
+feeling frustrated | Frustration is a sign you're trying! Step back, breathe, and try a different approach. You've got this! 💪
+i'm mad | Being mad is natural. What matters is how you handle it. Want to vent or hear something to cool down?
+so annoyed | Annoyance happens! Take a break if you can. Distance brings perspective. What's bothering you?
+pissed off | Sounds like you're really upset. Take some deep breaths. Whatever it is, you'll get through it. Want to talk about it?
+hate this | It's frustrating when things don't go our way. Remember: this is temporary. What would make the situation better?
+
+# MOOD DETECTION - BOREDOM
+i'm bored | Boredom is an opportunity for creativity! Want to hear a fun fact, a joke, or get some activity suggestions? 🎨
+feeling bored | Let's fix that! I can share jokes, interesting facts, or conversation starters. What sounds fun?
+nothing to do | There's always something to do! Want suggestions for: reading, learning something new, exercise, or creative activities?
+entertain me | Challenge accepted! Want a joke, a fun fact, a riddle, or would you like to play 20 questions?
+
+# MOOD DETECTION - TIREDNESS & EXHAUSTION
+i'm tired | Rest is not a luxury, it's a necessity. You've been working hard! Take care of yourself. Can you take a break? 😴
+so exhausted | Exhaustion is your body asking for care. Please rest if you can. You can't pour from an empty cup. 💙
+feeling drained | When you're drained, it's time to recharge. Sleep, hydration, and gentle movement help. What can you do today to care for yourself?
+burnt out | Burnout is serious. You need rest and recovery. Please prioritize yourself. It's not selfish - it's essential. 🌟
+need sleep | Sleep is crucial! Your body and mind need it to function. Try to get some rest soon. You deserve it! 😴
+
+# MOOD DETECTION - HAPPINESS & EXCITEMENT
+i'm happy | That's wonderful! I'm so glad you're happy! What's making your day great? 😊
+feeling great | Awesome! Keep that positive energy going! You deserve all the good vibes! ✨
+i'm excited | Exciting! Your enthusiasm is contagious! What are you excited about?
+best day ever | That's amazing! I'm so happy for you! Celebrate these moments! 🎉
+in a good mood | Love it! Good moods are the best! What's bringing you joy today?
+feeling awesome | You ARE awesome! Keep being amazing! What's making you feel so great?
+
+# MOTIVATIONAL QUOTES & SUPPORT
+motivate me | "Believe you can and you're halfway there." - Theodore Roosevelt. You've got this! 💪
+i need motivation | Remember: "The only way to do great work is to love what you do." - Steve Jobs. You're capable of amazing things!
+inspire me | "Your limitation—it's only your imagination." Dream big and take action! You're stronger than you think! 🌟
+give me strength | You have more strength than you realize. "Strength doesn't come from what you can do. It comes from overcoming things you thought you couldn't." 💪
+encourage me | You're doing better than you think! Every small step forward is progress. Keep going - I believe in you! ✨
+i can't do this | Yes, you can! Maybe not all at once, but one step at a time. "It always seems impossible until it's done." - Nelson Mandela 💙
+i'm a failure | You're NOT a failure! Failure is just a lesson in disguise. Every successful person has failed many times. What matters is that you keep trying! 🌟
+i give up | Don't give up! "When you feel like quitting, think about why you started." Take a break if needed, but don't quit! You're so close! 💪
+not good enough | You ARE good enough! Stop comparing yourself to others. "Comparison is the thief of joy." You're unique and valuable! 💙
+
+# JOKES & HUMOR
+tell me a joke | Why don't scientists trust atoms? Because they make up everything! 😄
+joke please | What do you call a bear with no teeth? A gummy bear! 🐻
+make me laugh | Why did the scarecrow win an award? He was outstanding in his field! 😂
+funny joke | Why don't eggs tell jokes? They'd crack each other up! 🥚
+another joke | What do you call a fake noodle? An impasta! 🍝
+dad joke | I used to hate facial hair, but then it grew on me! 😄
+silly joke | Why did the bicycle fall over? Because it was two tired! 🚲
+pun please | I'm reading a book about anti-gravity. It's impossible to put down! 📚
+funny | What's orange and sounds like a parrot? A carrot! 🥕
+humor | Why did the math book look sad? Because it had too many problems! 📕
+
+# FUN FACTS
+fun fact | Fun fact: Honey never spoils! Archaeologists have found 3000-year-old honey in Egyptian tombs that's still edible! 🍯
+interesting fact | Did you know? Octopuses have three hearts and blue blood! 🐙
+tell me something interesting | The shortest war in history lasted only 38 minutes! (Anglo-Zanzibar War, 1896) ⚔️
+random fact | Bananas are berries, but strawberries aren't! 🍌
+mind blowing fact | There are more stars in the universe than grains of sand on all Earth's beaches! 🌟
+teach me something | A group of flamingos is called a "flamboyance"! Pretty fitting, right? 🦩
+
+# ENTERTAINMENT & ACTIVITIES
+i'm bored what should i do | Try: 1) Learn something new online 2) Exercise or dance 3) Call a friend 4) Start a creative project 5) Read something inspiring! 🎨
+suggest an activity | How about: Taking a walk, trying a new recipe, learning a language, drawing, or watching a documentary? What interests you?
+what can i do for fun | Fun ideas: Play a game, listen to music, try meditation, start journaling, or explore a new hobby! What sounds good?
+keep me busy | Stay busy with: Online courses, puzzles, cooking experiments, home workouts, or creative writing! What catches your interest?
+
+# RIDDLES & BRAIN TEASERS  
+riddle | Here's one: I speak without a mouth and hear without ears. I have no body, but come alive with wind. What am I? (Answer: An echo!)
+brain teaser | What has keys but no locks, space but no room, and you can enter but can't go inside? (Answer: A keyboard!) ⌨️
+puzzle me | What gets wetter the more it dries? (Answer: A towel!) 🧩
+
+# COMPLIMENTS & AFFIRMATIONS
+compliment me | You're absolutely amazing just as you are! Your uniqueness is your superpower! 🌟
+say something nice | You have incredible potential, and you make the world brighter just by being in it! ✨
+i need affirmation | You are worthy, you are capable, and you are enough - exactly as you are! 💙
+am i good enough | You are MORE than good enough! You are valuable, unique, and important. Don't let anyone tell you otherwise! 🌟
+
+# LIFE ADVICE
+life advice | "Life is 10% what happens to you and 90% how you react to it." Focus on what you can control and let go of the rest. 🌈
+how to be happy | Happiness comes from: gratitude, meaningful connections, pursuing passions, helping others, and accepting yourself. What brings YOU joy?
+meaning of life | The meaning of life is what you make it! Find purpose in: loving others, growing as a person, and making a positive impact. 💙
+how to deal with problems | Face problems one step at a time. Break them down, ask for help when needed, and remember: every problem has a solution! 💪
+
+# SELF-CARE & WELLNESS
+self care tips | Self-care essentials: 1) Get enough sleep 2) Eat nutritious food 3) Move your body 4) Connect with loved ones 5) Do something you enjoy daily! 🌸
+how to relax | Try: deep breathing, meditation, gentle stretching, listening to calming music, taking a warm bath, or spending time in nature. 🧘
+stress relief | Stress relief tips: Exercise, talk to someone, practice mindfulness, get organized, take breaks, and remember to laugh! 😌
+mental health | Mental health is just as important as physical health! It's okay to not be okay. Seek support when you need it. You deserve care! 💚
+
+# RELATIONSHIPS & SOCIAL
+feeling lonely | Loneliness is tough. Reach out to someone - a friend, family member, or even online communities. Connection helps! Remember, I'm here too! 🤗
+no friends | Making friends takes time. Try joining groups with shared interests, volunteering, or taking classes. Be yourself - the right people will appreciate you! 💙
+how to make friends | Be genuine, show interest in others, be a good listener, share your interests, and don't be afraid to initiate! Friendship takes effort from both sides. 😊
+relationship advice | Good relationships need: communication, trust, respect, quality time, and appreciation. What specific situation are you navigating?
+
+# WORK & PRODUCTIVITY
+procrastinating | Beat procrastination: Break tasks into tiny steps, set a timer for 10 minutes to start, remove distractions, reward yourself! You've got this! ⏰
+can't focus | Improve focus: Take breaks every 25 minutes, minimize distractions, stay hydrated, get enough sleep, and tackle hardest tasks when you're most alert! 🎯
+productivity tips | Boost productivity: Prioritize tasks, use the 2-minute rule (if it takes 2 min, do it now), batch similar tasks, and take care of yourself! 📈
+overwhelmed with work | Work overwhelm is real! Prioritize ruthlessly, delegate if possible, break projects down, and remember: you can only do one thing at a time. Take breaks! 💼
+
+# INSPIRATION & DREAMS
+follow your dreams | "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt. Take one small step toward your dream today! ✨
+chase your passion | Life's too short to not pursue what you love! Start small, stay consistent, and don't let fear stop you. What's your passion?
+believe in yourself | You are capable of achieving amazing things! Believe in yourself even when it's hard. Your potential is limitless! 🌟
+
+# GRATITUDE & POSITIVITY
+grateful | Gratitude is powerful! What's one thing you're grateful for today? Focusing on the good attracts more good! 🙏
+think positive | Positive thinking isn't ignoring problems - it's approaching them with hope and confidence. You've overcome 100% of your bad days so far! 😊
+count your blessings | Even on tough days, there's something to be grateful for. What's one small blessing in your life right now? 💙
+
+# CONFIDENCE & SELF-ESTEEM
+low self esteem | You are valuable and worthy, regardless of what anyone else thinks! Focus on your strengths and treat yourself with kindness. 💙
+not confident | Confidence builds with action! Start small, celebrate wins, practice self-compassion, and remember: everyone feels unsure sometimes. You've got this! 💪
+feel ugly | You are beautiful in your own unique way! Beauty standards are artificial. What makes you YOU is what makes you beautiful! 🌸
+insecure | We all have insecurities, but they don't define you. Focus on what you love about yourself and what you're good at. You're amazing! ✨
+
+# GENERAL ASSISTANCE
+what can you do | I can chat with you, offer motivation, tell jokes, share fun facts, give advice, and most importantly - be here when you need someone to talk to! 😊
+how can you help me | I'm here to listen, encourage, entertain, and support you! Whether you need motivation, a laugh, or just someone to talk to - I'm here! 💙
+who are you | I'm your friendly AI assistant! I'm here to chat, support you, make you laugh, and help brighten your day! 🤖💙
+are you real | I'm a real AI, and I really care about helping you feel better and supporting you! 😊
+
+# CRISIS SUPPORT
+want to die | I'm really concerned about you. Please reach out immediately: National Suicide Prevention Lifeline: 988 or 1-800-273-8255. Your life matters! 💙
+suicidal | Please get help right now: Call 988 or text HELLO to 741741. You matter, and there are people who want to help you. You're not alone! 💙
+harm myself | Please don't hurt yourself. Call 988 or go to your nearest emergency room. You deserve help and support. Your life is valuable! 💙
+
+# SLEEP & REST  
+can't sleep | Trouble sleeping? Try: no screens 1hr before bed, cool dark room, regular schedule, relaxation exercises, no caffeine late in day. Sweet dreams! 😴
+insomnia | Insomnia is frustrating! Stick to a routine, avoid naps, exercise early in the day, and try meditation. If it persists, see a doctor. Rest well! 🌙
+
+# EATING & HEALTH
+not eating | Please take care of your body! If you're struggling with eating, reach out to a healthcare provider. You deserve nourishment and support! 🍎
+eating disorder | Eating disorders are serious. Please reach out to NEDA Hotline: 1-800-931-2237. You deserve help and recovery is possible! 💚
+
+# GENERAL LIFE
+everything sucks | Sometimes life feels that way, but it won't always! "This too shall pass." What's one tiny thing that didn't suck today?
+bad day | Bad days happen to everyone! Tomorrow is a fresh start. Be gentle with yourself. What's one small thing that would make you feel better? 🌈
+having a hard time | Hard times are temporary. You're stronger than you know! What support do you need right now?
+things going wrong | When everything goes wrong, remember: this is just a chapter, not the whole story. Things will improve! 💙
+
+# RANDOM & MISC
+what should i do | That depends on what you need! Want: motivation, a joke, advice, someone to listen, or just a friendly chat?
+help me | Of course! I'm here to help. What do you need? Support, advice, entertainment, or just someone to talk to?
+talk to me | I'm all ears! What's on your mind? I'm here to listen and support you! 💙
+i don't know what to do | That's okay! Sometimes we need time to figure things out. Want to talk through your situation or hear some general guidance?
